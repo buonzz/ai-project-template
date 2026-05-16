@@ -1,3 +1,8 @@
+---
+agent: security-checklist
+priority: 5
+---
+
 # Security Checklist
 
 - Never store plaintext passwords

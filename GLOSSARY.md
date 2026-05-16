@@ -1,3 +1,8 @@
+---
+agent: glossary
+priority: 3
+---
+
 # Glossary
 
 Define important terms clearly.

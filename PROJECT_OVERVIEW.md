@@ -1,3 +1,8 @@
+---
+agent: project-identity
+priority: 1
+---
+
 # Project Overview
 
 ## Project Name

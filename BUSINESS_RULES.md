@@ -1,3 +1,8 @@
+---
+agent: business-rules
+priority: 4
+---
+
 # Business Rules
 
 Examples:

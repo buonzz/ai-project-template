@@ -1,3 +1,8 @@
+---
+agent: user-stories
+priority: 7
+---
+
 # User Stories
 
 ## Example

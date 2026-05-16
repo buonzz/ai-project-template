@@ -1,3 +1,8 @@
+---
+agent: features
+priority: 6
+---
+
 # Features
 
 ## Feature Template

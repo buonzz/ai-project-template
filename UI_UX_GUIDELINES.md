@@ -1,3 +1,8 @@
+---
+agent: ui-ux-guidelines
+priority: 8
+---
+
 # UI / UX Guidelines
 
 ## Design Goals

@@ -1,3 +1,8 @@
+---
+agent: tech-stack
+priority: 2
+---
+
 # Tech Stack
 
 ## Frontend
